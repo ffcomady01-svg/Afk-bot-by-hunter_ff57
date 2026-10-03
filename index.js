@@ -10,7 +10,7 @@ function createBot() {
     host: 'GOATSMP.enderman.cloud',
     port: 25565,
     username: 'Cloud_AFK_247',
-    version: false
+    version: '1.20.4' // Agar aapka SMP 1.21 ya koi aur version hai to yahan wo likhein
   });
 
   bot.on('spawn', () => {
